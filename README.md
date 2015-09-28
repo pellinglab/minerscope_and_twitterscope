@@ -21,7 +21,7 @@ You will also need to change the system account in the *main.py* script to your 
 
 	...
 	#Filter the returned tweet for a specific user          
-        if((u'@yout_account_name' in tweet):       #The user name need to be blanked before uploading
+        if((u'@yout_account_name' in tweet):
         #Condition for single image acquisition
 	...
 
