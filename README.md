@@ -141,3 +141,4 @@ The blue block will capture an image from the camera. The yellow block will disp
 About
 ---------
 -[Pellinglab](http://www.pellinglab.net/)
+-[Stl files for 3D printer](http://www.thingiverse.com/thing:1042159)
