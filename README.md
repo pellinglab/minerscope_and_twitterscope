@@ -1,5 +1,7 @@
 Minerscope and Twitterscope: Interfaces to control the DIY microscope
 ======
+The paper is now on the bioRxiv preprint server if you are interested in further expeimental details:
+http://biorxiv.org/content/early/2016/05/15/053470
 
 Twitterscope: 
 ======
